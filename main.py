@@ -36,3 +36,4 @@ if __name__ == "__main__":
 
 end_time = time.time()  # время окончания выполнения
 print(execution_time := end_time - start_time)  # вычисляем время выполнения
+print(execution_time)  # проверка присваивания на лету
